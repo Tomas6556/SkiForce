@@ -4,9 +4,12 @@ SkiForce was developed as a University project for one of my courses. The aim wa
 
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_1.jpg?raw=true)
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_2.jpg?raw=true)
+
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_3.jpg?raw=true)
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_4.jpg?raw=true)
+
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_5.jpg?raw=true)
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_6.jpg?raw=true)
+
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_7.jpg?raw=true)
 ![alt text](https://github.com/Tomas6556/SkiForce/blob/main/Screenshot_8.jpg?raw=true)
